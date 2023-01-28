@@ -1,8 +1,6 @@
 {
-    "name": "andriymiz/iiko-biz-api",
+    "name": "fess7/iiko-biz-api",
     "description": "A wrapper for iiko biz API",
-    "keywords": ["iiko", "iiko-biz", "php"],
-    "homepage": "https://github.com/andriymiz/iiko-biz-api",
     "license": "MIT",
     "authors": [
         {
